@@ -1,5 +1,11 @@
 LINK: https://quotes-react-86904.firebaseapp.com/
 
+Login with:
+  email: test@email.com
+  password: test123
+or register for a new account
+  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
